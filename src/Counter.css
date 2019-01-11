@@ -1,0 +1,29 @@
+.App {
+  margin-top: 20px;
+  position: absolute;
+  justify-content: center;
+  text-align: center;
+  width: 50vw;
+  background-color: maroon; }
+
+h2 {
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold; }
+
+.title {
+  color: pink; }
+
+.controls {
+  background-color: red; }
+
+button {
+  color: red;
+  border-color: pink;
+  background-color: maroon; }
+
+/*# sourceMappingURL=Counter.css.map */

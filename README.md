@@ -1,3 +1,5 @@
+I created this simple Counter app to investigate the funcitonality of redux.  This is also the first time I have compiled a ###'.sass' file to generate css for the app.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
