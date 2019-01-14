@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: pink; }
+
 .App {
   margin-top: 20px;
   position: absolute;
@@ -24,6 +29,7 @@ h2 {
 button {
   color: red;
   border-color: pink;
-  background-color: maroon; }
+  background-color: maroon;
+  width: 25%; }
 
 /*# sourceMappingURL=Counter.css.map */
