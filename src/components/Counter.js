@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import './Counter.css';
+import '../styles/Counter.css';
 
 class Counter extends Component {
   state = { count: this.props.count }
